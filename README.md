@@ -1,0 +1,2 @@
+# videojs
+pure js
